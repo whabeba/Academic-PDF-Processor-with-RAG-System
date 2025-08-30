@@ -1,0 +1,59 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment files
+.env
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Hugging Face / Transformers cache (models, datasets)
+.cache/
+huggingface/
+transformers/
+
+# PyTorch model weights
+*.pt
+*.bin
+*.pth
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Output folders
+output/
+runs/
+checkpoints/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# If using Colab / Google Drive mount
+drive/

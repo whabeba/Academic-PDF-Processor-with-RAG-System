@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+Pillow
+pydantic
+google-generativeai
+sentence-transformers
+scikit-learn
+numpy
+torch
